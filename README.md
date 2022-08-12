@@ -1,1 +1,3 @@
 # testFork
+
+whoami
